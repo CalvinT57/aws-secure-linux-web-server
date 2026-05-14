@@ -1,5 +1,6 @@
 # 🔐 Secure AWS EC2 Linux Web Server
 
+This project demonstrates the deployment and configuration of a secure Linux based web server using Amazon EC2. The project includes instance deployment, security group configuration, Apache installation, Linux administration, and hosting a live webpage accessible through a public IPv4 address.
 ## 📸 Final Result
 
 ![Final Server Verification](screenshots/23-final-server-verification.png)
@@ -14,6 +15,15 @@ In this project, I built and secured a cloud-hosted Linux web server using AWS E
 
 This project demonstrates both infrastructure deployment and basic system hardening.
 
+## Skills Demonstrated
+
+- AWS EC2
+- Linux Administration
+- Apache Web Server
+- Security Groups
+- Networking Fundamentals
+- Cloud Infrastructure
+- Troubleshooting
 ---
 
 ## 🛠️ Technologies Used
@@ -237,5 +247,5 @@ Verified:
 ## 📌 Author
 
 Calvin Trammell  
-https://github.com/calvin5731  
+https://github.com/CalvinT57  
 https://www.linkedin.com/in/calvin-trammell-56675295  
